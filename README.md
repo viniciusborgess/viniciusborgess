@@ -1,4 +1,4 @@
-My name is Vinicius Borges, I live in Brazil 🇧🇷 , I work as a front-end developer, I love learning more technologies and solving problems.
+My name is Vinicius Borges, I live in Brazil 🇧🇷 , I study software engineering at FIAP, I love learning more technologies and solving problems.
 
 
 - 📍 Living in São Paulo
