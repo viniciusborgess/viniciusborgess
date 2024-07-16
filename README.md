@@ -1,6 +1,3 @@
-My name is Vinicius Borges, I live in Brazil 🇧🇷 , I study software engineering at FIAP, I love learning more technologies and solving problems.
-
-
 - 📍 Living in São Paulo
 - 🔎 Always open to new challenges
 
