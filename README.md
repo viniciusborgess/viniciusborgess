@@ -1,5 +1,4 @@
-- 📍 Living in São Paulo
-- 🔎 Always open to new challenges
+Always open to new challenges
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusborgess&layout=compact)](https://github.com/viniciusborgess/github-readme-stats)
 
