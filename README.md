@@ -1,4 +1,4 @@
-Always open to new challenges
+Always open to new challenges.
 
 
 
